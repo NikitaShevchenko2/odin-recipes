@@ -1,0 +1,19 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: paleturquoise;
+}
+h1 {
+    font-style: italic;
+    font-weight: 800;
+}
+ul {
+    color: black;
+    font-weight: 600;
+    background-color: greenyellow;
+}
+p {
+    background-color: brown;
+}
+a {
+    background-color: green;
+}
